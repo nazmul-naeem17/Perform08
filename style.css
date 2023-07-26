@@ -1,0 +1,12 @@
+/*This is basic code*/
+h1{
+    background-color: limegreen!important;
+}
+#p2{
+    background-color: aqua !important;
+    color: black;
+}
+.class1 #internalp{
+    background-color: gray;
+    color: aliceblue;
+}
